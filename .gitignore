@@ -153,3 +153,4 @@ cython_debug/
 /data
 /submissions
 gettting_started.ipynb
+models/
