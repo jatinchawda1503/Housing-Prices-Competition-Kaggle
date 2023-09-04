@@ -154,3 +154,4 @@ cython_debug/
 /submissions
 gettting_started.ipynb
 models/
+catboost_info/
